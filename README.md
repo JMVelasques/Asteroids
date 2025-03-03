@@ -13,4 +13,6 @@
 
 # 5. Created the circleshape.py file and added the predefined CircleShape class.
 
-# 6. updated the constants.py file to include the player size.
+# 6. Updated the constants.py file to include the player size.
+# Created the Playes class in the Player.py file.
+# Updated the main.py main function to draw the player object in the screen.
