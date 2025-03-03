@@ -10,3 +10,7 @@
 
 # 4. Updated main.py: Added details for display window, created a infinite loop for the screen.
 # Tested the loop. Created a .gitignore file.
+
+# 5. Created the circleshape.py file and added the predefined CircleShape class.
+
+# 6. updated the constants.py file to include the player size.
