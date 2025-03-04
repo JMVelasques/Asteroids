@@ -16,3 +16,14 @@
 # 6. Updated the constants.py file to include the player size.
 # Created the Playes class in the Player.py file.
 # Updated the main.py main function to draw the player object in the screen.
+
+# 7. Updated the constants.py, main.py and player.py files. Introduced the PLAYER_TURN_SPEED variable to constants.py.
+# Created the update method on the Player class.
+# Updated the loop in the main.py to reflect the changes made.
+# Player can now rotate using a and d keystrokes.
+
+# 8. Updated the constants.py and player.py Introduced the PLAYER_SPEED variable to constants.py.
+# Created the move method on the player class and updated the update method.
+# Player can now move using the w and s keystrokes.
+
+
