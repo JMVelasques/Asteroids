@@ -26,4 +26,10 @@
 # Created the move method on the player class and updated the update method.
 # Player can now move using the w and s keystrokes.
 
+# 9. Added groups to main.py. Updated loop to reflect the changes.
 
+# 10. Created asteroids.py and asteroidsfield.py.
+# Created Asteroid class on asteroid.py.
+# Created asteroidField class in asteroidfield.py.
+# Updated main.py to reflect the changes.
+# There are Asteroids in the game now.
