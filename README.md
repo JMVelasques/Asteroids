@@ -33,3 +33,7 @@
 # Created asteroidField class in asteroidfield.py.
 # Updated main.py to reflect the changes.
 # There are Asteroids in the game now.
+
+# 11. Updated circleshape.py and main.py. 
+# Created the check_collision method on circleshape.py.
+# Updated main.py to check for asteroid - player collisions.
