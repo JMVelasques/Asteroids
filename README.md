@@ -42,3 +42,6 @@
 # Created the shoot method in player.py
 # Updated constants.py and main.py to reflect the changes made.
 # Players can now shoot in a straight forward line.
+
+# 13. Updtated player.py and constants.py.
+# Shoot now has a cooldown to prevent infinite shooting.
