@@ -54,3 +54,5 @@
 # Big and medium now split into two smaller asteroids when hit by a bullet.
 # Small asteroids disappear when hit by a bullet.
 # Updated main.py to reflect the changes.
+
+# Finished this project!
