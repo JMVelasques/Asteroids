@@ -14,7 +14,7 @@
 # 5. Created the circleshape.py file and added the predefined CircleShape class.
 
 # 6. Updated the constants.py file to include the player size.
-# Created the Playes class in the Player.py file.
+# Created the Players class in the Player.py file.
 # Updated the main.py main function to draw the player object in the screen.
 
 # 7. Updated the constants.py, main.py and player.py files. Introduced the PLAYER_TURN_SPEED variable to constants.py.
@@ -37,3 +37,8 @@
 # 11. Updated circleshape.py and main.py. 
 # Created the check_collision method on circleshape.py.
 # Updated main.py to check for asteroid - player collisions.
+
+# 12. Created Shot class in shot.py
+# Created the shoot method in player.py
+# Updated constants.py and main.py to reflect the changes made.
+# Players can now shoot in a straight forward line.
