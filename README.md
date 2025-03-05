@@ -45,3 +45,7 @@
 
 # 13. Updtated player.py and constants.py.
 # Shoot now has a cooldown to prevent infinite shooting.
+
+# 14. Modified main.py to insert asteroid and bullet collision.
+# Asteroids now vanish when hit by a bullet, the bullet disappears too.
+
