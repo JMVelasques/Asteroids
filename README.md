@@ -49,3 +49,8 @@
 # 14. Modified main.py to insert asteroid and bullet collision.
 # Asteroids now vanish when hit by a bullet, the bullet disappears too.
 
+# 15. Modified asteroid.py and main.py.
+# Created the split method on asteroid.py file.
+# Big and medium now split into two smaller asteroids when hit by a bullet.
+# Small asteroids disappear when hit by a bullet.
+# Updated main.py to reflect the changes.
